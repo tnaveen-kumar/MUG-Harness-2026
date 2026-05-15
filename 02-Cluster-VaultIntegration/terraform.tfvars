@@ -1,0 +1,6 @@
+﻿mongodbatlas_client_id     = "mdb_sa_id_6928dd"
+mongodbatlas_client_secret = "mdb_sa_sk_bOcBjwb"
+org_id                     = "69ef8430fc"
+project_name               = "MUG-Harness-2026-VaultIntegration-Project"
+cluster_name               = "MUG-Harness-2026-VaultIntegration"
+#vault_token = "hvs.KyAYVev7KJufz3wyE4hSJ46l"
