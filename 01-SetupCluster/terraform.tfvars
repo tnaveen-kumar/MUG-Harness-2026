@@ -1,0 +1,7 @@
+mongodbatlas_client_id     = "mdb_sa_id_6a06c7ceba"
+mongodbatlas_client_secret = "mdb_sa_sk_2WKWOgeO"
+org_id                     = "69ef8430fce"
+db_password                = "ThisIsNotAStrongP@ssword1"
+project_name               = "MUG-Harness-2026-Project"
+cluster_name               = "MUG-Harness-2026-Cluster"
+db_username                = "appuser"
